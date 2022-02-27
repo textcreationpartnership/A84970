@@ -1,0 +1,173 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A Full and true account of the sad and dreadful storm that happened on Sunday morning, the 12th of January, 1689. VVith a relation how it happened, and continued, and the damage it has done by land and sea, by blowing down houses, chimneys, trees, killing and wounding divers people, carrying away hay-reeks, corn-reeks, &amp;c. in damaging churches, casting away ships, boats, lighters, &amp;c. with other prodigious and fearfull circumstances attending it; the like not known in any age.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1689-1690</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 13 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2013-12">2013-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A84970</idno>
+            <idno type="STC">Wing F2310B</idno>
+            <idno type="STC">ESTC R177233</idno>
+            <idno type="EEBO-CITATION">45504467</idno>
+            <idno type="OCLC">ocm 45504467</idno>
+            <idno type="VID">171781</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A84970)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 171781)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2590:20)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A Full and true account of the sad and dreadful storm that happened on Sunday morning, the 12th of January, 1689. VVith a relation how it happened, and continued, and the damage it has done by land and sea, by blowing down houses, chimneys, trees, killing and wounding divers people, carrying away hay-reeks, corn-reeks, &amp;c. in damaging churches, casting away ships, boats, lighters, &amp;c. with other prodigious and fearfull circumstances attending it; the like not known in any age.</title>
+               </titleStmt>
+               <extent>[2], 6 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for P. Brooksby, J. Deacon, J. Blare, J. Back,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>[1689 or 90]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Publication date of 1690 suggested by Wing.</note>
+                  <note>"Licensed according to order."</note>
+                  <note>Reproduction of original in: Sutro Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Storms --  England --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-08</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-08</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-09</date>
+            <label>Judith Siefring</label>Sampled and proofread</change>
+         <change>
+            <date>2012-09</date>
+            <label>Judith Siefring</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2013-02</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:171781:1" rendition="simple:additions"/>
+            <p> A Full and True ACCOUNT Of the ſad and dreadfull STORM That happened on <hi>Sunday</hi> Morning, the 12th. of <hi>January,</hi> 1689. VVITH A Relation how it happened, and continued, and the Damage it has done by Land and Sea, by blowing down Houſes, Chimneys, Trees, killing and wounding divers People, carrying away Hay-Reeks, Corn-Reeks, <hi>&amp;c.</hi> in damaging Churches, caſting away Ships, Boats, Lighters, <hi>&amp;c.</hi> with other prodigious and fearfull Circumſtances attending it; the like not known in any Age.</p>
+            <floatingText type="license" xml:lang="eng">
+               <body>
+                  <p>
+                     <hi>Licenſed according to Order.</hi>
+                  </p>
+               </body>
+            </floatingText>
+            <p>
+               <hi>LONDON:</hi> Printed for <hi>P. Brooksby, J. Deacon, J. Blare, J. Back.</hi>
+            </p>
+            <pb facs="tcp:171781:2"/>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb n="1" facs="tcp:171781:2"/>
+            <head>A Full and True ACCOUNT Of the Sad and Dreadfull STORM, &amp;c.</head>
+            <p>THough many of the <hi>Weſt-Indian</hi> Iſlands and Planta<g ref="char:EOLhyphen"/>tions are frequently ſubject to the diſmal Effects of prodigious Storms and Hurracains that carry all before them, yet <hi>England</hi> amongſt other parts of the World has been moſtly exempted<g ref="char:punc">▪</g> from a ruinous Event of that nature; and when ſuch thing<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap> 
+               <gap reason="illegible" resp="#APEX" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ppen, they may be looked upon as Prodigies: But amongſt <gap reason="illegible" resp="#APEX" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> 
+               <gap reason="illegible" resp="#APEX" extent="2 letters">
+                  <desc>••</desc>
+               </gap>at have happened in the Memory of Man, or we find recounted in Hiſtory, none has ever proved ſo deſtructive as this we are about, to deſcribe; the diſmal Account of which, as we have been Eye witneſſes, and received from ſeveral places, take as followeth.</p>
+            <p>On <hi>Saturday</hi> Morning being the 11th of <hi>January,</hi> 1689. the Sun riſe pale, with dark Spots and Clouds, croſſing it with red duskey Streaks, and was often over-caſt with red and dark Clouds, which the moſt curious Obſervers ever denote, to fore<g ref="char:EOLhyphen"/>run a Storm; but within an hour or two, the day cleared up for a time; but in the Afternoon, the Wind began to riſe, and changed its Quarter twice or thrice in a ſhort time, till it came
+<pb n="2" facs="tcp:171781:3"/> to South-Weſt, and South by Weſt, and then great flakes of Snow fell, and continued ſo to do, mixed with a kind of driz<g ref="char:EOLhyphen"/>ling Rain, from four in the Afternoon, till between Twelve &amp; One in the Morning, at what time the Wind increaſed, and on a ſudden grew ſo violent, that ſuch as hapened to be abroad were not able to ſtand before it; and the Tiles and Brikes flew every where about the Streets in ſuch abundance, that the Watch in moſt places in and about the City of <hi>London</hi> were obliged to leave their Stands, and ſeek Shelter, the open Streets being every where unſafe, and many were beaten down with Tiles and Bricks, the Houſes every where rocked as with an Earth<g ref="char:EOLhyphen"/>quake, and ſhafts of Chimneys fell thick, many breaking through the Roofs, and carrying all before them, which obli<g ref="char:EOLhyphen"/>ged the Inhabitants to quit the upper Stairs of their Houſes, and betake themſelves to the low Room, or Cellars; the ſtrongeſt Houſes rocking and tottering all the while in a moſt grievous manner, ſo that many doubted their Safety in the moſt ſecureſt places, and ſeveral fearing the fall of their Houſes, and betaking them to the Streets, and void places, were not on<g ref="char:EOLhyphen"/>ly carried againſt their Wills, and driven too and fro by the Violence of the Storm, but beat down and wounded by Tiles, and Bricks, that were blown off the Houſes, and carried into the Air at a prodigious diſtance; nor did the ſtrong Churches eſcape the Fury; th<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Lead in ſeveral places being ripped off and rent in piece<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap> 
+               <gap reason="illegible" resp="#APEX" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> the Stones ſhaken and uncemented; and particularly that <gap reason="illegible" resp="#APEX" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>ous and ancient Church in the Temple, ſuffered by this Storm, which for its Violence, ſeemed to threa<g ref="char:EOLhyphen"/>ten the Diſſolution of all things, &amp; by its force, in ſhaking the Steeples, made the Bells chatter in ſome Steeples.</p>
+            <p>This was but the leaſt part of the Miſchief the fury of the Wind occaſioned, for in places where Houſes ſtood moſt ex<g ref="char:EOLhyphen"/>poſed, it took off whole Roofs, and ſcattered them in the Air, wounding, if not killing divers Perſons, whilſt the Ruins eve<g ref="char:EOLhyphen"/>ry where ſpread the Streets; and we had an Account, that in a place called <hi>Gravel-Lane,</hi> a Boy and a Man were overwhelm<g ref="char:EOLhyphen"/>ed, and killed in their Beds by a Stack of Chimneys which broke through the Roof the Houſe upon them; and a Carman being early up to remove ſome Goods, had the misfortune to be
+<pb n="3" facs="tcp:171781:3"/> beaten down in <hi>Thames-Street,</hi> by the fall of ſeveral Bricks from the top of a Chimney, and his Scull being broke, he di<g ref="char:EOLunhyphen"/>ed of the Wound.</p>
+            <p>The River of <hi>Thames</hi> raged with impetuous Violence, be<g ref="char:EOLhyphen"/>ing agitated by the Fury of the VVind, meeting the Tide, and daſhed to pieces a great many VVherrys, and ſome Lighters driven from their Anchors, which appeared the next Morning by the VVrecks, and broken pieces that floated in abundance, and divers dead Bodies were taken up, and diſcovered, as well below as above Bridge, ſuppoſed to have been caſt away in this impetuous Storm; and divers are likewiſe miſſing, and en<g ref="char:EOLhyphen"/>quired after; and happy it was for many Hundreds, that it fell out in the Night-time, otherways, few that were on the VVa<g ref="char:EOLhyphen"/>ter, any thing far from Shore, muſt have expected to eſcape. But deplorable and ruinous was the ſight in the open Fields, and encloſed Grounds, where mighty Oaks and Elms, out of the Age of Man's Memory lay rooted up, having turned up with their Roots, upon their falling, whole Loads of Earth, the Branches of their main Roots as thick as a Man's Thigh, being ſnapped aſunder, part up, and part remaining in the Ground; and mighty Arms of Trees beſtrewed the Fields, and Roads, carried in the Air an extraordinary way, ſome of which beat, and did conſiderable damage to the the Neigh<g ref="char:EOLhyphen"/>bouring Houſes and Barns, and this not only in the Country, but near Town, for in that famous Park by <hi>White-Hall,</hi> known by the Name of St. <hi>James</hi>'s Park, the pleaſant VValk of the King and Queen, and Court, Nobility, <hi>&amp;c.</hi> a great many of thoſe ſtately Trees on the North ſide the <hi>Pall-mall</hi> near St. <hi>James</hi>'s were blown up by the Roots; others were ſplit in ſun<g ref="char:EOLhyphen"/>der, ſome again were ſnapped ſhort, and others had their great Arms blown off, ſo that thoſe that were blown down were ſawn aſunder, to clear the VValk, their largeneſs not admit<g ref="char:EOLhyphen"/>ting of any other ſpeedy way of removal; and this Ruine happened not only in the VValk, but other places of the Park, the young and pliable Trees ſuffering very much, as well as the large and ſtubborn; nor did <hi>White-Hall,</hi> or St. <hi>Jame</hi>'s e<g ref="char:EOLhyphen"/>ſcape marks of this Storms Fury; and that the City might no more boaſt of her pleaſant VValks in the <hi>Moor-Fields,</hi> by
+<pb n="4" facs="tcp:171781:4"/> New <hi>Bethlehem,</hi> Ten or Twelve of thoſe Trees, planted out of the Memory of Man, were blown up by the Roots, or rent in ſunder, beating down, and breaking the Rails in their fall: As for Pails, Paliſado's, Fences, and things of that kind, they made but feeble reſiſtance, being for a great part broken, and carried away at a great diſtance; the Cattle in divers places, that were in the Fields, were blown forcibly into Ditches, Ri<g ref="char:EOLhyphen"/>vers, and Ponds, where ſeveral of them periſhed for want of timely Help. Several Carriers that were upon the Road, had their VVaggons overturned by the fury of the VVind, and di<g ref="char:EOLhyphen"/>vers Market-VVomen in their going home, were blown, toge<g ref="char:EOLhyphen"/>ther with their Panniers and Dorſers off their Horſes; nor was this the greateſt damage, for not only whole covering of Barns, but a great number of Reicks of Hay, Corn, Peaſe, <hi>&amp;c.</hi> were taken up and ſcattered in the Air, ſo that the ground was covered very deep with the Spoil of the Country, one Man's Corn or Hay being frequently carried unto another Man's Ground at a great diſtan<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e; as in other places were Sheets of Lead, Timber, and Roofs of Houſes, the Thatch of Thatch<g ref="char:EOLhyphen"/>ed Houſes flying in the Air like little Clouds, inſomuch, that, together with the Snow, it darkened the Light that faintly ap<g ref="char:EOLhyphen"/>peared from the Moon; a great many Houſes were qui<gap reason="illegible" resp="#APEX" extent="2 letters">
+                  <desc>••</desc>
+               </gap> blown down in ſeveral places, and about two hundred ſtocks of Chim<g ref="char:EOLhyphen"/>neys fell in and about <hi>London,</hi> not only deſtroying before them, but wounding, or killing many People; and although this was every where lamentable at Land, yet it proved more dread<g ref="char:EOLhyphen"/>ful at Sea, and in the Harbours where the Shipping lay; for in the Downs no leſs than Fifty Ships in great precipitation were obliged to cut their Cables, and ſtand off to Sea in great Confuſion and Diſorder ſome of them f<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>lling foul of the Shoal and Sands, others forced to throw their Lading over Board, to ſave their Lives, whilſt the Maſts, Rigging, and Galleries were rent and broken with the fury of the Wind; and we are credibly informed, that ſeveral Ships are caſt away, and a great many Men drowned, Wrecks of Ships, Goods, and dead Men being caſt aſhore in many of our Ports.</p>
+            <p>And we had News of the Loſs of an <hi>Eaſt-Indian</hi> Ship, to the value of 20000 <hi>l.</hi> but it is ſince contradicted, though ſhe
+<pb n="5" facs="tcp:171781:4"/> received conſiderable damage in the Storm, and very hardly weathered it: Our Men of VVar eſcaped the beſt, yet not with<g ref="char:EOLhyphen"/>out ſome damage in their Maſts, and Rigging. We have it ſtrong<g ref="char:EOLhyphen"/>ly reported, That ſeveral <hi>French</hi> Privateers that were cruſing Abroad for Prizes, were caſt away; and that the <hi>Weſtern</hi> and <hi>Eaſtern</hi> parts of <hi>France</hi> have ſuffered conſiderable damage; and not only <hi>Paris</hi> has felt its Fury, but that King's ſtately Pallace at <hi>Verſailles,</hi> one of the fineſt in <hi>Europe,</hi> is diſmally rent and diſ<g ref="char:EOLhyphen"/>mantled, and will require a great ſum to repair it; and a num<g ref="char:EOLhyphen"/>ber of his Ships are miſſing that were driven out of his Ports of <hi>Breſt</hi> and <hi>Verſailles.</hi>
+            </p>
+            <p>We do not hear from <hi>Scotland,</hi> that this Storm reached ſo much <hi>Northward</hi> as that Kingdom; but have daily freſh Ac<g ref="char:EOLhyphen"/>counts from many places of the almoſt inexpreſſible Damage it has done in the moſt <hi>Southern</hi> parts of <hi>England</hi> being a very melancholly Relation, and the ſum of Loſs ſuſtained very Ex<g ref="char:EOLhyphen"/>ceſſive, ſo that thoſe that reckon the leaſt, make it extraordi<g ref="char:EOLhyphen"/>nary, requiring much Time and Money to repair it. Many Boats upon the River of <hi>Thames</hi> breaking looſe, have been ſince found as far as <hi>Graves-end,</hi> whither they had been driven with incredible ſwiftneſs; and ſeveral Lighters were ſtaved in dri<g ref="char:EOLhyphen"/>ving againſt the Piles of the Bridge, and other places. The Ships that lay at Anchor in the River, were beat againſt each other, and the Sea-men's Labour proved ineffectual, in keep<g ref="char:EOLhyphen"/>ing them from conſiderable damage in their Hulls; and it may not without good ground be ſuſpected, that Countries which lay low to the Sea, have ſuffered by Over-flowings, or innunda<g ref="char:EOLhyphen"/>tions for; agitated by this furious VVind, the Ocean appeared ſo exceeding Mountanous, as if it had threatened to ſwallow the Land, above which it raiſed its VVaves: This Storm which began about Twelve at Night, laſted till about Five in the Morning in its full force, to the great Terrour and Amaze<g ref="char:EOLhyphen"/>ment of the People, ſome of them concluding it to be the end of the VVorld, which made them betake them to their Pray<g ref="char:EOLhyphen"/>ers, which they had not perhaps thought on ſome time before; but, according to the Prophet, <hi>When God's Judgments are A<g ref="char:EOLhyphen"/>broad, the Nations will learn Righteouſneſs;</hi> then what remains, but that we look upon this Storm, as an Admonition from
+<pb n="6" facs="tcp:171781:5"/> Heaven, to give us timely warning to repent us of our Sins, and turn away from the Evil of our doing, cleaving to that which is Good, and forſaking that which is Evil, that it may be well with us, and a worſer thing may not befall us, for the Al<g ref="char:EOLhyphen"/>mighty for the moſt part ſhakes, like a compaſſionate Father, the Rod of Correction before he ſtrikes, and if we will return to our Obedience, he will keep back the Execution of his Indig<g ref="char:EOLhyphen"/>nation, and not ſuffer his Fury to be poured out. A timely Re<g ref="char:EOLhyphen"/>pentance diſarms him of his Thunder, or ſtays it in the mid Volſey, ſtops his hand, who at Pleaſure can Arm the Elements, to puniſh our Diſobedience.</p>
+            <p>After this Storm was over, the Sky that had been troubled with tumultuous Clouds, cleared up, and grew Serene, it Free<g ref="char:EOLhyphen"/>zing very hard, as it did all the next day, the Wind-being come about to VVeſt by Nore.</p>
+            <p>And thus, Reader, you have a Relation of what has occurred in relation to this unuſual Storm, the greateſt that has been in the Memory of Man, and not to be parallel'd by that which ſo amuſed this Kingdom, in the Year One Thouſand Six Hun<g ref="char:EOLhyphen"/>dred and Sixty, about the time of the Death of <hi>Oliver</hi> the Pro<g ref="char:EOLhyphen"/>tector.</p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
